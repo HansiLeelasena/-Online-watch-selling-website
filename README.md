@@ -6,4 +6,4 @@ This is an online website for selling watches and this website includes basic fu
 
 ---
 
-## "HTML5, CSS, and JavaScript" are using for designing this website. 
+### "HTML5, CSS, and JavaScript" are using for designing this website. 
